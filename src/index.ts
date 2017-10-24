@@ -1,3 +1,4 @@
-import PackageFileRequest from './PackageFileRequest';
+import Request from './Request';
+import RequestResolver from './RequestResolver';
 
-export { PackageFileRequest };
+export { Request, RequestResolver };

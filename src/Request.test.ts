@@ -1,6 +1,6 @@
 import * as expect from 'unexpected';
 
-import PackageFileRequest from './PackageFileRequest';
+import PackageFileRequest from './Request';
 
 describe('getScope', () => {
   it('returns the package name and version range for a valid request', () => {
